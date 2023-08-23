@@ -34,3 +34,7 @@ pnpm-debug.log*
 /dist/
 /nbdist/
 /.nb-gradle/
+
+### add by eric,
+pnpm-lock.yaml
+
